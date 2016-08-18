@@ -1,10 +1,10 @@
 {
-  "name": "meanjs",
-  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js.",
+  "name": "productmanager",
+  "description": "Full-Stack JavaScript with MongoDB, Express, AngularJS, and Node.js",
   "version": "0.4.2",
   "meanjs-version": "0.4.2",
   "private": false,
-  "author": "https://github.com/meanjs/mean/graphs/contributors",
+  "author": "desshup",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -72,7 +72,7 @@
     "grunt-contrib-cssmin": "~0.12.3",
     "grunt-contrib-jshint": "~0.11.2",
     "grunt-contrib-less": "^1.0.1",
-    "grunt-contrib-sass": "~0.9.2",
+    "grunt-contrib-sass": "^0.9.2",
     "grunt-contrib-uglify": "~0.9.1",
     "grunt-contrib-watch": "~0.6.1",
     "grunt-env": "~0.4.4",
